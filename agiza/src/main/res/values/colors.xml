@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#14126283</color>
+    <color name="White">#FFFFFF</color>
+    <color name="myWhite">#FFFFFF</color>
+    <color name="findme">#0084FF</color>
+    <color name="findmesecond">#0061BC</color>
+    <color name="black">#000000</color>
+    <color name="background">#88EDEFEE</color>
+    <color name="red">#FD012B</color>
+    <color name="faded_red">#ABFD012B</color>
+    <color name="faded_yellow">#ACFCE303</color>
+    <color name="faded_green">#655EFC03</color>
+    <color name="clear">#00FFFFFF</color>
+    <color name="faded_blue">#949494</color>
+    <color name="blue">#352DFD</color>
+    <color name="green">#24CB4C</color>
+    <color name="baseline">#F5F6F5</color>
+    <color name="highlight">#620084FF</color>
+    <color name="dark_grey">#858585</color>
+    <color name="light_grey">#E0E0E0</color>
+
+    <color name="progress">#CFA451</color>
+    <color name="progress_background">#F4EEE1</color>
+    <color name="progress_status">#FCF5EC</color>
+</resources>
